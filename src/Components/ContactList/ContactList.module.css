@@ -1,0 +1,16 @@
+.list {
+  max-width: 400px;
+  width: 100%;
+}
+
+.listName {
+  text-transform: capitalize;
+  margin-right: 7px;
+}
+
+.listItem {
+  margin: 20px auto;
+  display: flex;
+  justify-items: space-around;
+  align-items: center;
+}
